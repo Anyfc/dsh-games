@@ -3,7 +3,7 @@
   "version": 1,
   "name": "Anyfc 的小游戏",
   "author": "Anyfc",
-  "updatedAt": "2026-11-21T16:35:06.893Z",
+  "updatedAt": "2026-11-21T16:46:28.716Z",
   "games": [
     {
       "slug": "match3-game",
@@ -12,7 +12,7 @@
       "cover": "match3-game/cover.svg",
       "dimension": "2d",
       "orientation": "portrait",
-      "publishedAt": "2026-11-21T16:35:06.893Z"
+      "publishedAt": "2026-11-21T16:46:28.716Z"
     },
     {
       "slug": "rider",
