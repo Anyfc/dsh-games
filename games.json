@@ -1,13 +1,27 @@
 {
-  "schema": "dsh-games-feed",
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "Anyfc 的小游戏",
+  "author": "Anyfc",
+  "updatedAt": "2026-11-21T16:35:06.893Z",
   "games": [
+    {
+      "slug": "match3-game",
+      "title": "宝石消消乐",
+      "url": "match3-game/",
+      "cover": "match3-game/cover.svg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-21T16:35:06.893Z"
+    },
     {
       "slug": "rider",
       "title": "闪电外卖",
       "url": "rider/",
+      "cover": null,
       "orientation": "landscape",
-      "publishedAt": "2026-11-21T13:49:28Z",
-      "buildId": "f33e14313998"
+      "publishedAt": "2026-11-21T13:49:28Z"
     }
-  ]
+  ],
+  "wall": null
 }

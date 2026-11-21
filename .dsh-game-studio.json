@@ -9,6 +9,15 @@
       "buildId": "f33e14313998",
       "orientation": "landscape",
       "cover": null
+    },
+    "match3-game": {
+      "title": "宝石消消乐",
+      "source": "f2c10b4f5a4cfcd1",
+      "publishedAt": "2026-11-21T16:35:06.893Z",
+      "buildId": "e9a24d2e639d",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "cover": "match3-game/cover.svg"
     }
   },
   "wall": null
