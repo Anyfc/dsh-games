@@ -1,0 +1,13 @@
+{
+  "schema": "dsh-games-feed",
+  "games": [
+    {
+      "slug": "rider",
+      "title": "闪电外卖",
+      "url": "rider/",
+      "orientation": "landscape",
+      "publishedAt": "2026-11-21T13:49:28Z",
+      "buildId": "f33e14313998"
+    }
+  ]
+}

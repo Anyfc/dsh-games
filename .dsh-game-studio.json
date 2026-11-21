@@ -1,0 +1,15 @@
+{
+  "tool": "dsh-game-studio",
+  "version": 1,
+  "games": {
+    "rider": {
+      "title": "闪电外卖",
+      "source": "ca9fc92f8c5cc1e4",
+      "publishedAt": "2026-11-21T13:49:28Z",
+      "buildId": "f33e14313998",
+      "orientation": "landscape",
+      "cover": null
+    }
+  },
+  "wall": null
+}
